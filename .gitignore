@@ -1,0 +1,25 @@
+# OS-specific junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE folders
+.vscode/
+.idea/
+
+# Node (in case you add build tools later)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Local export files
+*.zip
+
+# Sass cache
+.sass-cache/
+
+# Build output
+dist/
+build/
+
+# test
