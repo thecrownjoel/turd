@@ -21,3 +21,5 @@ yarn-error.log
 # Build output
 dist/
 build/
+
+# Test to see if Git is working
